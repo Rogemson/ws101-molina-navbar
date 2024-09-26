@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-molina-navbar/static/css/main.63e835df.css",
+    "main.js": "/ws101-molina-navbar/static/js/main.3075fd14.js",
+    "static/media/SnapTik.ltd_1727086651.mp4": "/ws101-molina-navbar/static/media/SnapTik.ltd_1727086651.88d214f516beaddd687e.mp4",
+    "static/media/SnapTik.ltd_1727162128.mp4": "/ws101-molina-navbar/static/media/SnapTik.ltd_1727162128.8a6df01d09b05e25774e.mp4",
+    "static/media/SnapTik.ltd_1727160596.mp4": "/ws101-molina-navbar/static/media/SnapTik.ltd_1727160596.fe997baec99cd33c9f13.mp4",
+    "index.html": "/ws101-molina-navbar/index.html",
+    "main.63e835df.css.map": "/ws101-molina-navbar/static/css/main.63e835df.css.map",
+    "main.3075fd14.js.map": "/ws101-molina-navbar/static/js/main.3075fd14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e835df.css",
+    "static/js/main.3075fd14.js"
+  ]
+}
